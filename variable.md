@@ -94,4 +94,3 @@ And `const` are not accepted this 2 method:
 2. Variable redeclaration + initialization
 
 I am giving `a = 10` means that will be fixed **(variable cannot be reassigned)**.
->>>>>>> a46dc0c3241d09b7295bb506d0fda2c904d7d129
