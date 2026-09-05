@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # JavaScript Learning
 
 What is js?
@@ -92,4 +91,3 @@ And `const` are not accepted this 2 method:
 2. Variable redeclaration + initialization
 
 I am giving `a = 10` means that will be fixed **(variable cannot be reassigned)**.
->>>>>>> b79df11d377ac9c877ea99101e3f184bed8526f7
