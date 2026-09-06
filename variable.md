@@ -43,4 +43,8 @@ And `const` are not accepted this 2 method:
 1. Variable reinitialization
 2. Variable redeclaration + initialization
 
+<<<<<<< HEAD
 I am giving `a = 10` means that will be fixed **(variable cannot be reassigned)**.
+=======
+I am giving `a = 10` means that will be fixed **(variable cannot be reassigned)**.
+>>>>>>> 675e398 (new file)
